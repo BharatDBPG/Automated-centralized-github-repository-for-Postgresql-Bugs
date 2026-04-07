@@ -19,6 +19,8 @@ This project automates the process of:
 * 📤 Creating and updating GitHub Issues automatically
 * ⏰ Running fully automated using Cron jobs
 
+<img width="513" height="671" alt="image" src="https://github.com/user-attachments/assets/c9e23548-14b1-4b28-b7cf-f6e895e9ccf0" />
+
 ---
 
 ## 🏗️ Project Structure
