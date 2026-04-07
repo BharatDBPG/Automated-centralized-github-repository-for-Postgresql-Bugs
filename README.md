@@ -278,7 +278,8 @@ If this project helps you:
 ---
 
 💡 *Designed for scalable and automated PostgreSQL bug tracking*
- **VASUKI M**
+ 
+ -**VASUKI M**
 
 ---
 
